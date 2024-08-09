@@ -4,7 +4,7 @@
 A simple blog project built with React.js, Redux, RTK Query, React Router, and Tailwind CSS. The project uses JSON Server as a mock API for data, allowing users to create, list, update, and delete blog posts.
 
 <!-- Project Screenshot -->
-![Project image]((https://raw.githubusercontent.com/Vivek-Avanigadda/pizza-store/main/public/images/rb-image1.png))
+![Project image](https://raw.githubusercontent.com/Vivek-Avanigadda/pizza-store/main/public/images/rb-image1.png)
 
 <!-- Table of Contents -->
 ## Table of Contents
@@ -16,7 +16,7 @@ A simple blog project built with React.js, Redux, RTK Query, React Router, and T
 
 <!-- Features -->
 ## Features
-- User-friendly interface for creating, updating, and deleting blog posts.
+- User-friendly interface for creating, updating, and deleting Pizza Items.
 - Seamless data fetching with RTK Query hooks.
 - Responsive design.
 - Categories data are also managed through the API.
@@ -33,8 +33,8 @@ To run the project locally, follow these steps:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/diina-gh/react-blog.git
-cd react-blog
+git clone https://github.com/diina-gh/pizza-store.git
+cd pizza-store
 ```
 
 2. Install dependencies:
@@ -71,7 +71,5 @@ Open your browser and go to http://localhost:3000 to view the app.
 Contributions are welcome! If you find any issues or have suggestions for improvements, please create a pull request or open an issue.
 
 ## Authors
-Seydina GUEYE - Initial work
-
-
+Bhavana Avaniagdda
 
