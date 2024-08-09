@@ -54,7 +54,7 @@ npm install -g json-server
 ```bash
 npm run start:dev
 ```
-5. Open New terminal in this Directory
+5. Open New terminal in this Directory:
 ```bash
 npm start
 ```
