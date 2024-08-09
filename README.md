@@ -1,7 +1,7 @@
 # Tech Chronicles
 
 <!-- Project Description -->
-A simple blog project built with React.js, Redux, RTK Query, React Router, and Tailwind CSS. The project uses JSON Server as a mock API for data, allowing users to create, list, update, and delete blog posts.
+A simple Pizza Store project built with React.js, Redux, RTK Query, React Router, and Tailwind CSS. The project uses JSON Server as a mock API for data, allowing users to create, list, update, and delete Pizza items.
 
 <!-- Project Screenshot -->
 ![Project image](https://raw.githubusercontent.com/Vivek-Avanigadda/pizza-store/main/public/images/rb-image1.png)
