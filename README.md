@@ -54,7 +54,10 @@ npm install -g json-server
 ```bash
 npm run start:dev
 ```
-
+5. Open New terminal in this Directory
+```bash
+npm start
+```
 Open your browser and go to http://localhost:3000 to view the app.
 
 <!-- Technologies Used -->
