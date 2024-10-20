@@ -1,4 +1,4 @@
-# Tech Chronicles
+# Pizza Store
 
 <!-- Project Description -->
 A simple Pizza Store project built with React.js, Redux, RTK Query, React Router, and Tailwind CSS. The project uses JSON Server as a mock API for data, allowing users to create, list, update, and delete Pizza items.
